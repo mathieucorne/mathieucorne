@@ -45,6 +45,7 @@ I design and ship production-grade software — from architecture to deployment.
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-1A1A1A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 ![Symfony](https://img.shields.io/badge/Symfony-1A1A1A?style=for-the-badge&logo=symfony&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-1A1A1A?style=for-the-badge&logo=angular&logoColor=DD0031)
+![Django](https://img.shields.io/badge/Django-1A1A1A?style=for-the-badge&logo=django&logoColor=092E20)
 
 **Databases**&ensp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1A1A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
