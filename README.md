@@ -32,21 +32,35 @@ I design and ship production-grade software — from architecture to deployment.
 
 ## Tech Stack
 
-**Frontend**&ensp;
+**Languages**&ensp;
+![TypeScript](https://img.shields.io/badge/TypeScript-1A1A1A?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-1A1A1A?style=for-the-badge&logo=python&logoColor=3776AB)
+![PHP](https://img.shields.io/badge/PHP-1A1A1A?style=for-the-badge&logo=php&logoColor=777BB4)
+![Java](https://img.shields.io/badge/Java-1A1A1A?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Rust](https://img.shields.io/badge/Rust-1A1A1A?style=for-the-badge&logo=rust&logoColor=white)
+
+**Frameworks**&ensp;
 ![Next.js](https://img.shields.io/badge/Next.js-1A1A1A?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-1A1A1A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-1A1A1A?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-1A1A1A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Symfony](https://img.shields.io/badge/Symfony-1A1A1A?style=for-the-badge&logo=symfony&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-1A1A1A?style=for-the-badge&logo=angular&logoColor=DD0031)
 
-**Backend**&ensp;
-![Node.js](https://img.shields.io/badge/Node.js-1A1A1A?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+**Databases**&ensp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1A1A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-1A1A1A?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-1A1A1A?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Neo4j](https://img.shields.io/badge/Neo4j-1A1A1A?style=for-the-badge&logo=neo4j&logoColor=4581C3)
 ![Supabase](https://img.shields.io/badge/Supabase-1A1A1A?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
 
-**Infrastructure**&ensp;
+**DevOps**&ensp;
 ![Docker](https://img.shields.io/badge/Docker-1A1A1A?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Ansible](https://img.shields.io/badge/Ansible-1A1A1A?style=for-the-badge&logo=ansible&logoColor=EE0000)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1A1A1A?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+
+**Cloud**&ensp;
 ![Vercel](https://img.shields.io/badge/Vercel-1A1A1A?style=for-the-badge&logo=vercel&logoColor=white)
+![OVH](https://img.shields.io/badge/OVH-1A1A1A?style=for-the-badge&logo=ovh&logoColor=123F6D)
 
 ---
 
