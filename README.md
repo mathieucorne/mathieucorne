@@ -14,7 +14,6 @@ I take ideas and make them exist.
 ## Currently building
 
 **[Korem](https://korem.opalecrest.com)** — Relationships of value. Keeping the tastes, dates and milestones of the people who matter.
-<sub>Next.js · TypeScript · PostgreSQL</sub>
 
 **[OpaleCrest](https://opalecrest.com)** — The entity the houses above belong to.
 
