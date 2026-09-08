@@ -32,7 +32,7 @@ I work on these alone, from the first intention through to the people who use th
 
 **Also work with**&ensp;
 ![Python](https://img.shields.io/badge/Python-1A1A1A?style=for-the-badge&logo=python&logoColor=3776AB)
-![Django](https://img.shields.io/badge/Django-1A1A1A?style=for-the-badge&logo=django&logoColor=092E20
+![Django](https://img.shields.io/badge/Django-1A1A1A?style=for-the-badge&logo=django&logoColor=092E20)
 
 ---
 
